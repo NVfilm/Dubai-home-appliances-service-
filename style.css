@@ -399,3 +399,12 @@ footer{
   }
 
 }
+.contact-info a{
+  color:#00aaff;
+  text-decoration:none;
+  font-weight:600;
+}
+
+.contact-info a:hover{
+  text-decoration:underline;
+}
